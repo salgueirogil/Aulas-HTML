@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <script>
+            var NUMBERS=[10,20,30,40,50]
+            var TIMES = (NUMBERS[0]+NUMBERS[1]+NUMBERS[2]+NUMBERS[3]+NUMBERS[4])/(NUMBERS[0]*NUMBERS[4])
+            // 0.3 
+            console.log (TIMES)
+        </script>
+    </body>
+</html>
